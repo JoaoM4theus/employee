@@ -1,0 +1,11 @@
+C:\Users\João Matheus\source\repos\Employee\Employee\bin\Debug\netcoreapp3.0\Employee.exe
+C:\Users\João Matheus\source\repos\Employee\Employee\bin\Debug\netcoreapp3.0\Employee.deps.json
+C:\Users\João Matheus\source\repos\Employee\Employee\bin\Debug\netcoreapp3.0\Employee.runtimeconfig.json
+C:\Users\João Matheus\source\repos\Employee\Employee\bin\Debug\netcoreapp3.0\Employee.runtimeconfig.dev.json
+C:\Users\João Matheus\source\repos\Employee\Employee\bin\Debug\netcoreapp3.0\Employee.dll
+C:\Users\João Matheus\source\repos\Employee\Employee\bin\Debug\netcoreapp3.0\Employee.pdb
+C:\Users\João Matheus\source\repos\Employee\Employee\obj\Debug\netcoreapp3.0\Employee.AssemblyInfoInputs.cache
+C:\Users\João Matheus\source\repos\Employee\Employee\obj\Debug\netcoreapp3.0\Employee.AssemblyInfo.cs
+C:\Users\João Matheus\source\repos\Employee\Employee\obj\Debug\netcoreapp3.0\Employee.dll
+C:\Users\João Matheus\source\repos\Employee\Employee\obj\Debug\netcoreapp3.0\Employee.pdb
+C:\Users\João Matheus\source\repos\Employee\Employee\obj\Debug\netcoreapp3.0\Employee.csprojAssemblyReference.cache
